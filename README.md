@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello! Я Евгений Коровин 🙋🏻‍♂️
 
-[![Gmail Badge](https://img.shields.io/badge/-korovinevgeniyalexeyevich-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:korovinevgeniyalexeyevich@gmail.com)](mailto:korovinevgeniyalexeyevich@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-korovinevgeniyalexeyevich-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:korovinevgeniyalexeyevich@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=korovinevgeniyalexeyevich@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@Arkvinst-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Arkvinst)](https://t.me/Arkvinst)
 
 Добро пожаловать в мой профиль! Я бакалавр компьютерных наук, сейчас обучаюсь на магистерской программе в Высшей Школе Экономики. В настоящее время я увлеченно выполняю роль ML-Engineer (CV / NLP), а ранее занимался преподаванием и участвовал в грантовой программе Российского Научного Фонда. Свяжитель со мной в [Telegram](https://t.me/Arkvinst) для консультаций📋, карьерного сотрудничества💼 или общения🤝. Спасибо за посещение моего профиля! 
