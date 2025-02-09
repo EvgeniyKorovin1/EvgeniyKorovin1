@@ -1,54 +1,38 @@
-<!--
-## Hi there 👋🙋🏻‍♂️
-
-**EvgeniyKorovin1/EvgeniyKorovin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 👋 Hello! I'm Евгений Коровин 🙋🏻‍♂️
+## 👋 Hello! I'm Evgeniy Korovin 🙋🏻‍♂️
 
 [![Gmail Badge](https://img.shields.io/badge/-korovinevgeniyalexeyevich-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:korovinevgeniyalexeyevich@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=korovinevgeniyalexeyevich@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@Arkvinst-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Arkvinst)](https://t.me/Arkvinst)
 
-🌟 Добро пожаловать в мой профиль! 🌟
+🌟 Welcome to my profile! 🌟
 
-Я бакалавр компьютерных наук, сейчас обучаюсь на магистерской программе в Высшей Школе Экономики. В настоящее время я увлеченно выполняю роль Data Scientist'а (CV / NLP), а ранее занимался преподаванием и участвовал в грантовой программе Российского Научного Фонда. Свяжитесь со мной в [Telegram](https://t.me/Arkvinst) для консультаций📋, карьерного сотрудничества💼 или общения🤝. Спасибо за посещение моего профиля! 
+I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's program at the HSE University . Now, I am passionately working as a Data Scientist (CV/NLP), and previously, I was involved in teaching and participated in a grant program from the Russian Science Foundation. Feel free to contact me on [Telegram](https://t.me/Arkvinst) for consultations📋, career collaboration💼, or just to chat🤝. 
+
+✨ Thank you for visiting my profile! ✨
 
 ## 🕵️ About Me:
 
-**Опыт промышленной разработки:** более года.
+**Industrial development experience:** Over 1 year.
 
-**Опыт консультирования и преподавания:** более двух лет.
+**Consulting and teaching experience:** Over 2 years.
 
-🎓 В настоящее время я сотрудничаю с @AIRI_Institute и работаю над магистерской диссертацией, посвящённой мультимодальному распознаванию эмоций с использованием данных ЭЭГ и ЭКГ.
+🎓 Currently, I am collaborating with @AIRI_Institute and working on my Master's thesis, which focuses on multimodal emotion recognition using EEG and ECG data.
 
-🎵 Осенью 2024 года в команде стартапа @DaVinity занимался полным циклом разработки решения для определения жанра и настроения аудио-фрагментов в псевдо-реальном времени (до 5 секунд) в рамках задачи MIR (Music Information Retrieval) для MVP версии их девайса. 
+🎵 In the fall of 2024, as part of the @DaVinity startup team, I was involved in the full-cycle development of a solution for determining the genre and mood of audio fragments in pseudo-real time (up to 5 seconds) as part of the MIR (Music Information Retrieval) task for their device's MVP version.
 
-🏥 С 2023 года являлся Data Scientist в направлении компьютерного зрения (CV). Параллельно, совместно с Российским Научным Фондом разрабатывал интеллектуальную (NLP) систему генерации и отбора медицинских клинических рекомендаций в рамках гранта РНФ 22-19-00471.
+🏥 Since 2023, I have been working as a Data Scientist in the field of Computer Vision (CV). In parallel, in collaboration with the Russian Science Foundation, I developed an intelligent (NLP) system for generating and selecting medical clinical guidelines as part of the RSF grant 22-19-00471.
 
-🧠 В период 2021-2023 года работал преподавателем программирования.
+🧠 From 2021 to 2023, I worked as a programming instructor.
 
-Коротко обо мне:
-- Не боюсь изучать новое.
+A few things about me:
+- I am not afraid to learn new things.
 
-- Легко выстраиваю коммуникацию с коллегами, хорошо адаптируюсь к изменчивости условий и помогаю в этом другим.
+- I easily build communication with colleagues, adapt well to changing conditions, and help others do the same.
 
-- Активно участвую в передаче знаний внутри компании: провожу презентации новых внутренних инструментов, пишу подробную документацию и обновляю устаревшую, указываю примеры использования для внутренних инструментов и кода.
+- I actively participate in knowledge sharing within the company: I conduct presentations of new internal tools, write detailed documentation, update outdated documentation, and provide usage examples for internal tools and code.
 
-- Имею опыт работы в проектах с разными технологиями: React, C++, PHP, C#, Haskell, Python и т.д. 
+- I have experience working on projects with various technologies: React, C++, PHP, C#, Haskell, Python, etc.
 
-- Подхожу к любой задаче ответственно, уделяю внимание деталям.
-
+- I approach any task responsibly and pay attention to details.
 
 ## 🦾 **Skills**
 
